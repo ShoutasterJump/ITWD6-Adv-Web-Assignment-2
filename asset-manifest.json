@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/github.io/ITWD6-Adv-Web-Assignment-2/static/css/main.02307292.css",
+    "main.js": "/github.io/ITWD6-Adv-Web-Assignment-2/static/js/main.bd2ab636.js",
+    "static/js/453.3c3c57d0.chunk.js": "/github.io/ITWD6-Adv-Web-Assignment-2/static/js/453.3c3c57d0.chunk.js",
+    "static/media/slick.svg": "/github.io/ITWD6-Adv-Web-Assignment-2/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/github.io/ITWD6-Adv-Web-Assignment-2/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/github.io/ITWD6-Adv-Web-Assignment-2/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/github.io/ITWD6-Adv-Web-Assignment-2/index.html",
+    "static/media/slick.woff": "/github.io/ITWD6-Adv-Web-Assignment-2/static/media/slick.295183786cd8a1389865.woff",
+    "main.02307292.css.map": "/github.io/ITWD6-Adv-Web-Assignment-2/static/css/main.02307292.css.map",
+    "main.bd2ab636.js.map": "/github.io/ITWD6-Adv-Web-Assignment-2/static/js/main.bd2ab636.js.map",
+    "453.3c3c57d0.chunk.js.map": "/github.io/ITWD6-Adv-Web-Assignment-2/static/js/453.3c3c57d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02307292.css",
+    "static/js/main.bd2ab636.js"
+  ]
+}
